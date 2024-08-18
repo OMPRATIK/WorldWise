@@ -1,40 +1,64 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Valbona",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2024-08-18T13:04:49.931Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "40.212440718286466",
+        "lng": "-0.7910156250000001"
       },
-      "id": 17806751
+      "id": 2
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Hacinas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-18T13:05:40.185Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "41.983994270935625",
+        "lng": "-3.27392578125"
       },
-      "id": 98443197
+      "id": 3
+    },
+    {
+      "cityName": "Soraon",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-08-18T13:05:46.049Z",
+      "notes": "",
+      "position": {
+        "lat": "25.64152637306577",
+        "lng": "81.73828125000001"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Dundburd",
+      "country": "Mongolia",
+      "emoji": "🇲🇳",
+      "date": "2024-08-18T13:05:52.266Z",
+      "notes": "",
+      "position": {
+        "lat": "47.989921667414194",
+        "lng": "111.09375000000001"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Montagnol",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-08-18T16:54:16.858Z",
+      "notes": "",
+      "position": {
+        "lat": "43.8503744993026",
+        "lng": "2.9882812500000004"
+      },
+      "id": 6
     }
   ]
 }
